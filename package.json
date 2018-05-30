@@ -1,0 +1,26 @@
+{
+  "name": "javascript-5-lodash",
+  "version": "1.0.0",
+  "description": "Edit the lodash.js file to do your work.",
+  "main": "lodash.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcintdre000/javascript-5-lodash.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcintdre000/javascript-5-lodash/issues"
+  },
+  "homepage": "https://github.com/mcintdre000/javascript-5-lodash#readme",
+  "dependencies": {
+    "lodash": "^4.17.10"
+  }
+}
